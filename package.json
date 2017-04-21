@@ -1,0 +1,23 @@
+{
+  "name": "health-hack-app",
+  "version": "1.0.0",
+  "description": "health hackaton",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gino0012/health-hack-app.git"
+  },
+  "author": "team noisy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gino0012/health-hack-app/issues"
+  },
+  "homepage": "https://github.com/gino0012/health-hack-app#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
